@@ -2,7 +2,11 @@
 
 ## Solução Sustentável para a Mobilidade Urbana da Região Metropolitana de São Paulo
 
-
+<p align="center">
+  <a href="https://icons8.com.br/icons/set/python">
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+  </a>
+</p>
 
 ## Descrição do Projeto
 
@@ -81,11 +85,11 @@ As operações de manipulação de dados são integradas com o banco de dados Or
 ## Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação principal para a implementação do sistema.
-- 
+  
 - **Oracle**: Banco de dados relacional para armazenamento e manipulação de dados.
-- 
+  
 - **JSON e Excel**: Formatos de exportação de dados.
-- 
+  
 - **Inteligência Artificial e Análise de Dados**: Para otimização de rotas e eficiência no transporte público.
 
 ## Como Executar
